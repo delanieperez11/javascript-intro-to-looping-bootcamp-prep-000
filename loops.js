@@ -15,9 +15,3 @@ function whileLoop(n) {
   }
   return 'done'
 }
-
-function doWhileLoop(array) {
-  [loopBody];
-} while (array.length > 0 && maybeTrue());
-
-  return array
