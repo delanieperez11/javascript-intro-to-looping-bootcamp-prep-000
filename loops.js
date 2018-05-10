@@ -11,9 +11,9 @@ function forLoop(array) {
 
 function whileLoop(n) {
   while (n > 0) {
-    console.log (--n)
+    console.log (--n);
   }
-  return 'done'
+  return 'done';
 }
 
 function maybeTrue() {
@@ -24,5 +24,5 @@ function doWhileLoop(array) {
   do {
     array.pop();
   } while (array.length > 0 && maybeTrue());
-}
   return array;
+}
