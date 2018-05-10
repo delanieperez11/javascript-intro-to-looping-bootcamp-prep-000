@@ -17,5 +17,5 @@ function whileLoop(n) {
 }
 
 function doWhileLoop(array) {
-  
-}
+  [loopBody];
+} while ([condition]);
