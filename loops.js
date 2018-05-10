@@ -18,5 +18,6 @@ function whileLoop(n) {
 
 function doWhileLoop(array) {
   [loopBody];
-} while ([condition]);
+} while (array.length > 0 && maybeTrue());
+return array
 }
